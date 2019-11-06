@@ -1,0 +1,70 @@
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csprojAssemblyReference.cache
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Semih\source\repos\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.dll
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\Alfa.Entities.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.csproj.CopyComplete
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.dll
+C:\Users\Asus\Desktop\Alfa\Alfa.Entities\obj\Debug\Alfa.Entities.pdb

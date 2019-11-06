@@ -1,0 +1,440 @@
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiDuzenle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiEkle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpDuzenle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpEkle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonDuzenle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonEkle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarDuzenle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarEkle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Asus\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiDuzenle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiEkle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpDuzenle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpEkle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonDuzenle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonEkle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarDuzenle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarEkle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\STE\AlfaPlastik\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiDuzenle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiEkle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpDuzenle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpEkle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonDuzenle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonEkle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarDuzenle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarEkle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipIncele.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpIncele.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonIncele.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarIncele.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\source\repos\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiDuzenle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiEkle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipIncele.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpDuzenle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpEkle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpIncele.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonDuzenle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonEkle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonIncele.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarDuzenle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarEkle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarIncele.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\yedek\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\yedek-son\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipiEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.BakimTipIncele.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MOLD.KalıpIncele.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.OPERATION.OperasyonIncele.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.AmbarIncele.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\17,06,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Semih\Desktop\YAZ STAJI\Yeni klasör\01,07,2019-17,54\Alfa\Alfa\obj\Debug\Alfa.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.exe.config
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.exe
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.dll
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.BusinessLayer.dll.config
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.DataAccessLayer.dll.config
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Entities.dll.config
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.xml
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.pdb
+C:\Users\Asus\Desktop\Alfa\Alfa\bin\Debug\Alfa.Core.dll.config
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.Forms.AnaSayfa.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.Forms.GirisSayfasi.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.MAINTAINTYPE.ucBakimTipiGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.MOLD.ucKalıpGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.OPERATION.ucOperasyonGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.Properties.Resources.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.TRACKING.ucTalepGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.Ucgiris.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WAREHOUSE.ucAmbarGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriDuzenle.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.IsEmriEkle.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.UcEmirGor.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir2.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir3.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmir4.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen1.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen2.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen3.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.WORKORDER.ucIsEmirDuzen4.resources
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.csproj.CopyComplete
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.exe
+C:\Users\Asus\Desktop\Alfa\Alfa\obj\Debug\Alfa.pdb

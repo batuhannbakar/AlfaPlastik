@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8216EB50-9655-4CB1-8CE0-5C8A46DC8910}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Alfa</RootNamespace>
+    <AssemblyName>Alfa</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlfaPlastikDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AlfaPlastikDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AnaSayfa.Designer.cs">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GirisSayfasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GirisSayfasi.Designer.cs">
+      <DependentUpon>GirisSayfasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTAINTYPE\MaintaintypeDal.cs" />
+    <Compile Include="MAINTAINTYPE\ucBakimTipiGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MAINTAINTYPE\ucBakimTipiGor.Designer.cs">
+      <DependentUpon>ucBakimTipiGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MOLD\MoldDal.cs" />
+    <Compile Include="MOLD\ucKalıpGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MOLD\ucKalıpGor.Designer.cs">
+      <DependentUpon>ucKalıpGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Block.cs" />
+    <Compile Include="OPERATION\OperationDal.cs" />
+    <Compile Include="OPERATION\ucOperasyonGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="OPERATION\ucOperasyonGor.Designer.cs">
+      <DependentUpon>ucOperasyonGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TRACKING\ucTalepGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TRACKING\ucTalepGor.Designer.cs">
+      <DependentUpon>ucTalepGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ucgiris.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ucgiris.Designer.cs">
+      <DependentUpon>Ucgiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WAREHOUSE\ucAmbarGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WAREHOUSE\ucAmbarGor.Designer.cs">
+      <DependentUpon>ucAmbarGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WAREHOUSE\WarehouseDal.cs" />
+    <Compile Include="WORKORDER\IsEmriDuzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\IsEmriDuzenle.Designer.cs">
+      <DependentUpon>IsEmriDuzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\IsEmriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\IsEmriEkle.Designer.cs">
+      <DependentUpon>IsEmriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\UcEmirGor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\UcEmirGor.Designer.cs">
+      <DependentUpon>UcEmirGor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir.Designer.cs">
+      <DependentUpon>ucIsEmir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir2.Designer.cs">
+      <DependentUpon>ucIsEmir2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\Ucisemir2Dal.cs" />
+    <Compile Include="WORKORDER\ucIsEmir3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir3.Designer.cs">
+      <DependentUpon>ucIsEmir3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\Ucisemir3Dal.cs" />
+    <Compile Include="WORKORDER\ucIsEmir4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmir4.Designer.cs">
+      <DependentUpon>ucIsEmir4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\Ucisemir4Dal.cs" />
+    <Compile Include="WORKORDER\UcisemirDal.cs" />
+    <Compile Include="WORKORDER\ucIsEmirDuzen1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen1.Designer.cs">
+      <DependentUpon>ucIsEmirDuzen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen2.Designer.cs">
+      <DependentUpon>ucIsEmirDuzen2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen3.Designer.cs">
+      <DependentUpon>ucIsEmirDuzen3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WORKORDER\ucIsEmirDuzen4.Designer.cs">
+      <DependentUpon>ucIsEmirDuzen4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WORKORDER\WorkorderDal.cs" />
+    <EmbeddedResource Include="Forms\AnaSayfa.resx">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GirisSayfasi.resx">
+      <DependentUpon>GirisSayfasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTAINTYPE\ucBakimTipiGor.resx">
+      <DependentUpon>ucBakimTipiGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MOLD\ucKalıpGor.resx">
+      <DependentUpon>ucKalıpGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPERATION\ucOperasyonGor.resx">
+      <DependentUpon>ucOperasyonGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="TRACKING\ucTalepGor.resx">
+      <DependentUpon>ucTalepGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ucgiris.resx">
+      <DependentUpon>Ucgiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WAREHOUSE\ucAmbarGor.resx">
+      <DependentUpon>ucAmbarGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\IsEmriDuzenle.resx">
+      <DependentUpon>IsEmriDuzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\IsEmriEkle.resx">
+      <DependentUpon>IsEmriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\UcEmirGor.resx">
+      <DependentUpon>UcEmirGor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmir.resx">
+      <DependentUpon>ucIsEmir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmir2.resx">
+      <DependentUpon>ucIsEmir2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmir3.resx">
+      <DependentUpon>ucIsEmir3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmir4.resx">
+      <DependentUpon>ucIsEmir4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmirDuzen1.resx">
+      <DependentUpon>ucIsEmirDuzen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmirDuzen2.resx">
+      <DependentUpon>ucIsEmirDuzen2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmirDuzen3.resx">
+      <DependentUpon>ucIsEmirDuzen3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WORKORDER\ucIsEmirDuzen4.resx">
+      <DependentUpon>ucIsEmirDuzen4.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AlfaPlastikDataSet.xsc">
+      <DependentUpon>AlfaPlastikDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AlfaPlastikDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AlfaPlastikDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AlfaPlastikDataSet.xss">
+      <DependentUpon>AlfaPlastikDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Alfa.BusinessLayer\Alfa.BusinessLayer.csproj">
+      <Project>{a8e60dd0-c927-4396-ba1e-4ce13645af34}</Project>
+      <Name>Alfa.BusinessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Alfa.DataAccessLayer\Alfa.DataAccessLayer.csproj">
+      <Project>{66c13d45-9f2a-444f-b5c4-d412250657f4}</Project>
+      <Name>Alfa.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Alfa.Entities\Alfa.Entities.csproj">
+      <Project>{205265f7-7578-40d3-b355-452dd37b8bef}</Project>
+      <Name>Alfa.Entities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trash-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-trash-481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\monitor_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truck_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workstation_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business_report_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key_2_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\work_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\environment_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shutdown_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\approve_and_update_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\training_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\activity_feed2_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\order_history_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\graph_report_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\workstation_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_45px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_45px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\talep_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\planner_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\processor_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enter_2_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\completed_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\completed_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\completed_30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\takip_40px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok_48px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfa1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_file_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alfa2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ekle.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

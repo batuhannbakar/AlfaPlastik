@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{205265F7-7578-40D3-B355-452DD37B8BEF}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Alfa.Entities</RootNamespace>
+    <AssemblyName>Alfa.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Models\MAINTAINTYPE.cs" />
+    <Compile Include="Models\Mapping\MAINTAINTYPEMap.cs" />
+    <Compile Include="Models\Mapping\MOLDMap.cs" />
+    <Compile Include="Models\Mapping\OPERATIONMap.cs" />
+    <Compile Include="Models\Mapping\sysdiagramMap.cs" />
+    <Compile Include="Models\Mapping\TRACKINGMap.cs" />
+    <Compile Include="Models\Mapping\USERMap.cs" />
+    <Compile Include="Models\Mapping\V_MAINTAINTYPEMap.cs" />
+    <Compile Include="Models\Mapping\V_MOLDMap.cs" />
+    <Compile Include="Models\Mapping\V_OPERATIONMap.cs" />
+    <Compile Include="Models\Mapping\V_TRACKING_GRIDMap.cs" />
+    <Compile Include="Models\Mapping\V_WAREHOUSEMap.cs" />
+    <Compile Include="Models\Mapping\V_WRKORD_GRIDMap.cs" />
+    <Compile Include="Models\Mapping\WAREHOUSEMap.cs" />
+    <Compile Include="Models\Mapping\WL_COMPLETEMap.cs" />
+    <Compile Include="Models\Mapping\WL_PLANMap.cs" />
+    <Compile Include="Models\Mapping\WL_PROCESSMap.cs" />
+    <Compile Include="Models\Mapping\WL_REQUESTMap.cs" />
+    <Compile Include="Models\Mapping\WRKORDLINEMap.cs" />
+    <Compile Include="Models\Mapping\WRKORDMap.cs" />
+    <Compile Include="Models\MOLD.cs" />
+    <Compile Include="Models\OPERATION.cs" />
+    <Compile Include="Models\sysdiagram.cs" />
+    <Compile Include="Models\TRACKING.cs" />
+    <Compile Include="Models\USER.cs" />
+    <Compile Include="Models\V_MAINTAINTYPE.cs" />
+    <Compile Include="Models\V_MOLD.cs" />
+    <Compile Include="Models\V_OPERATION.cs" />
+    <Compile Include="Models\V_TRACKING_GRID.cs" />
+    <Compile Include="Models\V_WAREHOUSE.cs" />
+    <Compile Include="Models\V_WRKORD_GRID.cs" />
+    <Compile Include="Models\WAREHOUSE.cs" />
+    <Compile Include="Models\WL_COMPLETE.cs" />
+    <Compile Include="Models\WL_PLAN.cs" />
+    <Compile Include="Models\WL_PROCESS.cs" />
+    <Compile Include="Models\WL_REQUEST.cs" />
+    <Compile Include="Models\WRKORD.cs" />
+    <Compile Include="Models\WRKORDLINE.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
